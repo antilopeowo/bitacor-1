@@ -1,1 +1,1 @@
-en este dia avanzamos con la carpeta de campo y ya terminamos el esquema sumado a que casi terminamos el codigo
+estuvimos testeando el proyecto para ver si funcionaba pero nos dioun error en el voltaje y en todo el dia se estuvo intentando arreglar eso
